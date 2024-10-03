@@ -1,12 +1,25 @@
-.test1 {
+.header {
     display: flex;
     justify-content: center;
     align-items: center;
     background-color: bisque;
 }
 
-.name {
+.test1 {
+    font-size: 50px;
+    font-weight: 700;
+    color: blue;
+}
+
+.footer {
+    display: flex;
+    justify-content:center ;
+    align-items: center;
+    background-color: beige;
+}
+
+.test2 {
     font-size: 30px;
     font-weight: 600;
-    color: blue;
+    color: brown;
 }
