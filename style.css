@@ -1,0 +1,12 @@
+.test1 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: bisque;
+}
+
+.name {
+    font-size: 30px;
+    font-weight: 600;
+    color: blue;
+}
